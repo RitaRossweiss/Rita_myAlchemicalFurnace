@@ -1,12 +1,10 @@
 <h2 align = "center">myAlchemicalFurnace</h2>
 
-<img src="https://pic1.imgdb.cn/item/645e57890d2dde57770e14a9.png" style="zoom: 33%;" />
-
-
+<img src=".\img\img_01.png" style="zoom: 25%;" />
 
 - This repository is used to store some AI models.
 
-- Please note that you can use it for testing, but you need to indicate the source and comply with local laws.
+- For personal learning use only.
 
 ------
 
