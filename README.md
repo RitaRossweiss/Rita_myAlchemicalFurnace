@@ -1,6 +1,6 @@
 <h3 align = "center">myAlchemicalFurnace</h3>
 
-<img src=".\img\img_01.png" style="zoom: 15%;"  style="zoom: 15%;" />
+![Rita_myAlchemicalFurnace](https://socialify.git.ci/RitaRossweiss/Rita_myAlchemicalFurnace/image?font=Raleway&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Auto)
 
 - This repository is used to store some AI models.
 
